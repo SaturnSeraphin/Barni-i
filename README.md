@@ -20,12 +20,17 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 
 ## 📫 Como entrar em contato comigo
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
-    <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-</a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
-    <img src="" height="24">
-</a>
-
+<div>    
+    <div style="display📸">
+        <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
+            <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+        </a>
+    </div>
+    <div>
+        <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
+            <img width="24" height="24" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+        </a>
+    </div>
+</div>
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse.
