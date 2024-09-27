@@ -21,10 +21,11 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 ## 📫 Como entrar em contato comigo
 
 <div>    
-    <div style="display📸">
+    <div style="display: flex;">
         <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
             <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
         </a>
+        <p>-João Pedro Barni Lima</p>
     </div>
     <div>
         <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
