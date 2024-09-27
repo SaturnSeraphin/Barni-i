@@ -27,7 +27,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
         </a>
         <span style="margin-left: 8px;">João Pedro Barni Lima</span>
     </div>
-    <div style="display: flex; align-items: center; margin-top: 8px; magin-bottom: 10px">
+    <div style="display: flex; align-items: center; margin-top: 8px; magin-bottom: 50px">
         <a href="mailto:joaopedrobarnii@gmail.com">
             <img width="24" height="24" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
         </a>
