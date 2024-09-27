@@ -21,11 +21,11 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 ## 📫 Como entrar em contato comigo
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" height="64">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" height="24">
 </a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="64">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="24">
 </a>
 
 
