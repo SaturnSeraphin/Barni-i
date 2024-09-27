@@ -32,4 +32,4 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
     <span style="margin-left: 8px;">joaopedrobarnii@gmail.com</span>
 </div>
 
-##Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse.
+## Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse.
