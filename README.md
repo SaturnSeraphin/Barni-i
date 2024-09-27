@@ -20,21 +20,19 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 
 ## 📫 Como entrar em contato comigo
 
-<div>    
+<div style="margin-bottom: 10px">    
     <div style="display: flex; align-items: center;">
         <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
             <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
         </a>
         <span style="margin-left: 8px;">João Pedro Barni Lima</span>
     </div>
-    <div style="display: flex; align-items: center; margin-top: 8px; magin-bottom: 50px">
+    <div style="display: flex; align-items: center; margin-top: 8px;">
         <a href="mailto:joaopedrobarnii@gmail.com">
             <img width="24" height="24" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
         </a>
         <span style="margin-left: 8px;">joaopedrobarnii@gmail.com</span>
     </div>
 </div>
-
-
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse.
