@@ -19,6 +19,6 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Barni-i&layout=compact&theme=radical)
 
 ## 📫 Como entrar em contato comigo
-<a url="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" url="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse.
