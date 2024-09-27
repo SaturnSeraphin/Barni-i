@@ -20,7 +20,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 
 ## 📫 Como entrar em contato comigo
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/) -- João Pedro Barni Lima
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/)
 
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse.
