@@ -22,15 +22,16 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 
 <div>    
     <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
-        <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-    </a>
-    <p style="margin-left: 8px;">João Pedro Barni Lima</p>
-    </div>
-    <div>
         <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
+            <img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+        </a>
+        <p style="margin-left: 8px;">João Pedro Barni Lima</p>
+    </div>
+    <div style="display: flex; align-items: center; margin-top: 8px;">
+        <a href="mailto:joaopedrobarnii@gmail.com">
             <img width="24" height="24" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
         </a>
+        <p style="margin-left: 8px;">joaopedrobarnii@gmail.com</p>
     </div>
 </div>
 
