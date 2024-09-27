@@ -16,7 +16,8 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 ## 📊 Minhas Estatísticas no GitHub
 
 ![Barni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barni-i&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Barni-i&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Barni-i&layout=compact&theme=radical&card_width=495)
+
 
 ## 📫 Como entrar em contato comigo 
 <div style="display: flex; align-items: center;">
