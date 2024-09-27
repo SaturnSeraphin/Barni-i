@@ -18,17 +18,6 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 ![Barni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barni-i&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Barni-i&layout=compact&theme=radical)
 
-## 📫 Como entrar em contato comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30">
-  </a>
-  <a href="mailto:joaopedrobarnii@gmail.com">
-    <img src="https://github.com/Barni-i/Barni-i/blob/main/gmail-icon" alt="Email" height="30">
-  </a>
-</p>
-
----
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse.
