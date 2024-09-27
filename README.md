@@ -22,7 +22,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height: 20px alt="LinkedIn">
   </a>
   <a href="mailto:joaopedrobarnii@gmail.com">
     <img src="https://img.shields.io/badge/Email-Enviar-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
