@@ -13,6 +13,11 @@ Sou técnico em Desenvolvimento de Sistemas e atualmente curso **Análise e Dese
 
 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco em **back-end** e também me aventurando em **DevOps**.
 
+## 📊 Minhas Estatísticas no GitHub
+
+![Barni's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
 ## 📫 Como entrar em contato comigo
 
 - LinkedIn: [João Pedro Barni Lima](https://www.linkedin.com/in/jo%C3%A3o-pedro-barni-lima-251105272/)
