@@ -17,7 +17,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com foco
 
 ## Estatísticas do Repositório 📈
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=SaturnSeraphin&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SaturnSeraphin&layout=compact&theme=radical)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jp-Barni&show_icons=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-Barni&layout=compact&theme=radical)
 
 ## Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse.
